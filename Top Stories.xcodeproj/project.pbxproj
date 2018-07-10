@@ -14,6 +14,7 @@
 		4A56164920F502EE00A74881 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A56164720F502EE00A74881 /* LaunchScreen.storyboard */; };
 		4A56165420F502EE00A74881 /* Top_StoriesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A56165320F502EE00A74881 /* Top_StoriesTests.swift */; };
 		4A56165F20F5055C00A74881 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A56165E20F5055C00A74881 /* SwiftyJSON.swift */; };
+		4A56166120F510AE00A74881 /* ArticlesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A56166020F510AE00A74881 /* ArticlesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		4A56165320F502EE00A74881 /* Top_StoriesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Top_StoriesTests.swift; sourceTree = "<group>"; };
 		4A56165520F502EE00A74881 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A56165E20F5055C00A74881 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		4A56166020F510AE00A74881 /* ArticlesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArticlesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 			children = (
 				4A56163E20F502ED00A74881 /* AppDelegate.swift */,
 				4A56164020F502ED00A74881 /* SourcesViewController.swift */,
+				4A56166020F510AE00A74881 /* ArticlesViewController.swift */,
 				4A56164220F502ED00A74881 /* Main.storyboard */,
 				4A56164520F502EE00A74881 /* Assets.xcassets */,
 				4A56164720F502EE00A74881 /* LaunchScreen.storyboard */,
@@ -201,6 +204,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A56165F20F5055C00A74881 /* SwiftyJSON.swift in Sources */,
+				4A56166120F510AE00A74881 /* ArticlesViewController.swift in Sources */,
 				4A56164120F502ED00A74881 /* SourcesViewController.swift in Sources */,
 				4A56163F20F502ED00A74881 /* AppDelegate.swift in Sources */,
 			);
